@@ -2,7 +2,7 @@
 **Front-End Developer | UX/UI Designer**
 
 ## About Me
-I build responsive, user-friendly web applications with clean code and intuitive interfaces. Passionate about creating seamless digital experiences through the combination of development and design.
+I specialize in building responsive, user-centric web applications with clean, maintainable code and thoughtfully designed interfaces. With a deep passion for both design and development, I create seamless digital experiences that are as intuitive as they are visually engaging. My goal is to bridge the gap between functionality and aesthetics—bringing ideas to life through purposeful, human-centered design.
 
 ## Technical Skills
 ### Development
@@ -17,13 +17,12 @@ I build responsive, user-friendly web applications with clean code and intuitive
 
 ## Featured Projects
 ### UX/UI Design
-- [MedRemind](https://www.figma.com/design/Cz55R90J2BZeSz7bnZ1Hjd/MedMind-Web-Application) - Medication management web application
-- [Taoltech EMR](https://www.figma.com/design/qIfWIqQJLia9CmHrh8XOhw/EMR-PROJECT-(Copy)) - Electronic medical records system
-- [AlafiaMed Mobile](https://www.figma.com/design/r15VBlnZq7WK44W39KnCEP/AlafiaMed-Project-File) - Patient healthcare solution
+- [Medication Reminder App (MedRemind)](https://www.figma.com/design/Cz55R90J2BZeSz7bnZ1Hjd/MedMind-Web-Application) - A medication management platform to help patients track and adhere to prescriptions.
+- [Taoltech EMR](https://www.figma.com/design/qIfWIqQJLia9CmHrh8XOhw/EMR-PROJECT-(Copy)) - An electronic medical records system designed for hospitals and clinics.
+- [AlafiaMed Mobile App](https://www.figma.com/design/r15VBlnZq7WK44W39KnCEP/AlafiaMed-Project-File) - A mobile health platform offering access to care and emergency services.
 
 ### Development
-- [Medication Reminder App](https://github.com/ritjiishaku/medication-reminder-app) - React-based reminder system with notification functionality
-- [MedRemind Full Stack](https://github.com/ritjiishaku/medremind) - Comprehensive health management application
+- [Medication Reminder App (MedRemind)](https://github.com/ritjiishaku/medication-reminder-app) - React-based reminder system with notification functionality
 - [ALX React Projects](https://github.com/ritjiishaku/alx-fe-reactjs) - Collection of React exercises and components
 
 ## Certifications
