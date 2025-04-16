@@ -1,8 +1,8 @@
 # Ritji Ishaku
-**Front-End Developer | UX/UI Designer | Healthcare Technology Specialist**
+**Front-End Developer | UX/UI Designer**
 
 ## About Me
-I specialize in creating user-centered digital experiences at the intersection of healthcare and technology. With expertise in both front-end development and UX/UI design, I build functional applications that solve real-world problems in the medical field.
+I build responsive, user-friendly web applications with clean code and intuitive interfaces. Passionate about creating seamless digital experiences through the combination of development and design.
 
 ## Technical Skills
 ### Development
@@ -27,16 +27,11 @@ I specialize in creating user-centered digital experiences at the intersection o
 - [ALX React Projects](https://github.com/ritjiishaku/alx-fe-reactjs) - Collection of React exercises and components
 
 ## Certifications
-- ALX Front-End Web Development Certification
-- Dev and Design UX/UI Professional Certification
-## Certifications
 
 - [Professional Foundation Certification](https://drive.google.com/file/d/1eaTH1hq57rD1FEL5uVwjCI5FMzFyQdYc/view?usp=sharing)  
   *Software engineering fundamentals and problem-solving*
-
 - [Front-End Web Development Certification]()  
   *React, JavaScript, and modern web development*
-
 - [Dev and Design UX/UI Professional Certification](https://drive.google.com/file/d/16dRi7JvWAODIOblyRexi-SPXgPCPPBa7/view?usp=sharing)  
   *User research, prototyping, and design systems*
 
