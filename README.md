@@ -29,6 +29,16 @@ I specialize in creating user-centered digital experiences at the intersection o
 ## Certifications
 - ALX Front-End Web Development Certification
 - Dev and Design UX/UI Professional Certification
+## Certifications
+
+- [Professional Foundation Certification](https://drive.google.com/file/d/1eaTH1hq57rD1FEL5uVwjCI5FMzFyQdYc/view?usp=sharing)  
+  *Software engineering fundamentals and problem-solving*
+
+- [Front-End Web Development Certification]()  
+  *React, JavaScript, and modern web development*
+
+- [Dev and Design UX/UI Professional Certification](https://drive.google.com/file/d/16dRi7JvWAODIOblyRexi-SPXgPCPPBa7/view?usp=sharing)  
+  *User research, prototyping, and design systems*
 
 ## Contact
 - **Email:** ritjiishaku@gmail.com
