@@ -2,7 +2,7 @@
 **Front-End Developer | UX/UI Designer**
 
 ## About Me
-I specialize in building responsive, user-centric web applications with clean, maintainable code and thoughtfully designed interfaces. With a deep passion for both design and development, I create seamless digital experiences that are as intuitive as they are visually engaging. My goal is to bridge the gap between functionality and aesthetics—bringing ideas to life through purposeful, human-centered design.
+I specialise in building responsive, user-centric web applications with clean, maintainable code and thoughtfully designed interfaces. With a deep passion for both design and development, I create seamless digital experiences that are as intuitive as they are visually engaging. My goal is to bridge the gap between functionality and aesthetics—bringing ideas to life through purposeful, human-centred design.
 
 ## Technical Skills
 ### Development
